@@ -21,7 +21,7 @@ Research Projects
 
 GCA Deliverables
 [tehttps://aubryhir.github.io/CR-02-charity-water-lp/xt](Charity: Water Interactive Landing Page Mock-Up)
-    Above is a project to help Charity: Water connect with younger donors through digital engagement. I initiated the development of a content strategy and published an interactive website concept that aligned with their mission.
+    Above is a landing page built to connect Charity: Water with younger donors through digital engagement. In this project, I initiated the development of a content strategy and published an interactive website concept that aligned with their mission.
 
 [https://slot-prior-23529664.figma.site/](Digital Wireframe for L'Oréal’s CeraVe)
     Responding to the challenge of creating an app that addresses specific user skincare needs, I reviewed initial interface testing insights and created a clickable prototype.
