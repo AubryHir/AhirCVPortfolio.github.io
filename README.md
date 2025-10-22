@@ -20,7 +20,7 @@ Research Projects
     A term-long research project conducted in PS491, culminating in an experiment on the game theory influences of altruistic punishment. 
 
 GCA Deliverables
-![tehttps://aubryhir.github.io/CR-02-charity-water-lp/xt](Charity: Water Interactive Landing Page Mock-Up)
+![https://aubryhir.github.io/CR-02-charity-water-lp/xt](Charity: Water Interactive Landing Page Mock-Up)
     Above is a landing page built to connect Charity: Water with younger donors through digital engagement. In this project, I initiated the development of a content strategy and published an interactive website concept that aligned with their mission.
 
 ![https://slot-prior-23529664.figma.site/](Digital Wireframe for L'Oréal’s CeraVe)
