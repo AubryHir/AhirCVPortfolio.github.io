@@ -4,7 +4,7 @@ A collection of writing samples and projects.
 Academic Writing (Undergrad)
 [https://docs.google.com/document/d/1fQ46FHYXlYYyRhF9JJKiHlNDXem6Y8Rc_p97ufXUFKI/edit?usp=sharing](American Citizenship: An Evolving
 Methodology of Exclusion)
-    An esssay on how citizenship and sufferage interacted during the emancipation of previouslty enslaved indiviuduals.
+    An essay on how citizenship and suffrage interacted during the emancipation of previously enslaved individuals.
 [https://docs.google.com/document/d/1ooN5LU2IDoBb0pHyEFLx0Ula6csGRRJDw7Z0Vn0QYtY/edit?usp=sharing](Forms of Capitalism and The Role of The State: A Comparative Analysis of East Asia)
     Analysis of capitalist systems in East Asia and the parallels in political economies.
 [https://docs.google.com/document/d/1ikCopIC7scel0Pby4sLw516hRDKrNpEWMCQjCptXb_g/edit?usp=sharing](Annotated Playlist: The Politics of Music)
